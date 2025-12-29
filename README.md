@@ -43,3 +43,6 @@ Ejecuta el script desde la terminal pasando la ruta del archivo, carpeta o una m
 ## Notas
 - Los archivos `.dotx` generados se guardarán en el directorio actual de trabajo con el mismo nombre que el archivo original.
 - Si necesitas cambiar el formato visual, edita el archivo `reference.dotx`.
+
+## Colaboración
+- Asistido por Google Antigravity
